@@ -18,7 +18,7 @@ namespace Tyuiu.MerzhinskiyOO.Sprint4.Task0.V17
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Результат                                                               *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("Сумма чётных элементов массива - " + ds.GetSumEvenArrEl(numArray));
+            Console.WriteLine("Сумма чётных элементов массива - " );
             Console.ReadKey();
         }
     }
